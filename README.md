@@ -1,6 +1,6 @@
 🚀 Real-Time Full-Stack Chat Application
 
-MERN Stack | WebSockets (Socket.io) | Custom UI/UX
+MERN Stack | WebSockets (Socket.io) 
 
 🌟 Project Overview
 
